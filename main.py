@@ -14,6 +14,7 @@ def developer3method():
     print("Ulanov")
     print("ulanovedu@mail.ru")
     print("CS")
+    print("20")
     
 
     
