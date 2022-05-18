@@ -12,3 +12,5 @@ developer2method():
     print("cs senior")
     print("male")
     print("24")
+    print("7 jan 1998")
+    
