@@ -9,6 +9,19 @@ def developer1method():
     print("many")
     print("pakistan")
     print("Yasir")
+    print("Finals")
+    print("Grey Classroom")
+    print("Teammates")
+    print("Eldar")
+    print("Attique")
+    print("Freshman")
+    print("Senior")
+    print("Red")
+    print("Python")
+    print("Programming")
+developer1method()
+    
+    
 def developer3method():
     print("Edlar")
     print("Ulanov")
