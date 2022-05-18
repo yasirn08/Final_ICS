@@ -4,6 +4,7 @@ developer1method():
     print("yasirn008@gmail.com")
     print("Senior CS")
     print("Male")
+    print("24")
 developer1method()
 
     
