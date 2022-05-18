@@ -14,5 +14,7 @@ developer2method():
     print("24")
     print("7 jan 1998")
     print("python language specialist")
+    print("pakistan")
+    
     
     
