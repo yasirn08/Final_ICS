@@ -8,3 +8,4 @@ def developer1method():
     print("01.04.2002")
     print("Kyrgyzstan")
     print("Hello")
+    print("World")
