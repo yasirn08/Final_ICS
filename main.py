@@ -5,6 +5,7 @@ developer1method():
     print("Senior CS")
     print("Male")
     print("24")
+    print("8 may 1997")
 developer1method()
 
     
