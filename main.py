@@ -10,6 +10,9 @@ def developer1method():
     print("pakistan")
     print("Yasir")
     print("HI")
+    print("Finals")
+    
+    
 def developer3method():
     print("Edlar")
     print("Ulanov")
