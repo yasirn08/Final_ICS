@@ -9,7 +9,6 @@ def developer1method():
     print("many")
     print("pakistan")
     print("Yasir")
-    print("HI")
     print("Finals")
     print("Grey Classroom")
     
