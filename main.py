@@ -1,4 +1,4 @@
-developer1method():
+def developer1method():
     print("Yasir")
     print("Nawaz")
     print("yasirn008@gmail.com")
@@ -8,14 +8,16 @@ developer1method():
     print("8 may 1997")
     print("many")
     print("pakistan")
-developer1method()
+def developer3method():
+    print("Edlar")
+    
 
     
     
     
     
     
-developer2method():
+def developer2method():
     print("Attique")
     print("Ahmed")
     print("attique.ahmed70@gmail.com")
