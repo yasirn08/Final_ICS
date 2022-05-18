@@ -4,3 +4,4 @@ def developer1method():
     print("ulanovedu@mail.ru")
     print("CS")
     print("20")
+    print("Male")
