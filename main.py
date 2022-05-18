@@ -11,3 +11,4 @@ developer2method():
     print("attique.ahmed70@gmail.com")
     print("cs senior")
     print("male")
+    print("24")
