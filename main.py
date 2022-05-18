@@ -6,6 +6,8 @@ developer1method():
     print("Male")
     print("24")
     print("8 may 1997")
+    print("many")
+    
 developer1method()
 
     
