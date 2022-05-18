@@ -5,3 +5,4 @@ def developer1method():
     print("CS")
     print("20")
     print("Male")
+    print("01.04.2002")
