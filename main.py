@@ -7,7 +7,7 @@ developer1method():
     print("24")
     print("8 may 1997")
     print("many")
-    
+    print("pakistan")
 developer1method()
 
     
