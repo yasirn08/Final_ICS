@@ -7,3 +7,4 @@ def developer1method():
     print("Male")
     print("01.04.2002")
     print("Kyrgyzstan")
+    print("Hello")
