@@ -17,6 +17,7 @@ def developer1method():
     print("Freshman")
     print("Senior")
     print("Red")
+    print("Python")
     
     
 def developer3method():
