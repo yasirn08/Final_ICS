@@ -14,6 +14,7 @@ def developer1method():
     print("Teammates")
     print("Eldar")
     print("Attique")
+    print("Freshman")
     
     
 def developer3method():
