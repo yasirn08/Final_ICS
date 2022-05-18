@@ -8,6 +8,7 @@ def developer1method():
     print("8 may 1997")
     print("many")
     print("pakistan")
+    print("Yasir")
 def developer3method():
     print("Edlar")
     
