@@ -9,6 +9,7 @@ def developer1method():
     print("many")
     print("pakistan")
     print("Yasir")
+    print("HI")
 def developer3method():
     print("Edlar")
     print("Ulanov")
