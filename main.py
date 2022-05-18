@@ -17,7 +17,7 @@ def developer3method():
     print("20")
     print("Male")
     print("01.04.2002")
-    
+    print("CS")
 
     
     
