@@ -1,4 +1,5 @@
 developer1method():
+    print("Nawaz")
 
     
     
