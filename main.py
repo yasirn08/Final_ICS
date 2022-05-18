@@ -3,6 +3,7 @@ developer1method():
     print("Nawaz")
     print("yasirn008@gmail.com")
     print("Senior CS")
+    print("Male")
 developer1method()
 
     
